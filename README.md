@@ -4,9 +4,10 @@ Isolating Bootstrap from other components in frameworks to avoid Bootstrap css c
 <html>
   <!-- here there is no bootstrap effect -->
 <div class="NizarBootstrap>
-      <!-- here there is bootstrap works -->
+      <!-- here bootstrap works -->
 </div>
 <!-- here there is no bootstrap effect -->
 </html>
 ```
+Thank you Nizar for helping us ^^__^^
             
