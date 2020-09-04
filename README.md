@@ -6,5 +6,5 @@ Isolating Bootstrap from other components in frameworks to avoid Bootstrap css c
               <!-- here there is bootstrap style -->
   </div>
   <!-- here there is no bootstrap style -->
-
+              </html>
             
